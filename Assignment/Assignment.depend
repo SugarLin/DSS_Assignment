@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1462546622 source:c:\users\user\desktop\foundation it\decision support system\hungarian-algorithm-cpp-master\hungarian.cpp
+	<stdlib.h>
+	<cfloat>
+	<cmath>
+	"Hungarian.h"
+
+1486564265 c:\users\user\desktop\foundation it\decision support system\hungarian-algorithm-cpp-master\hungarian.h
+	<iostream>
+	<vector>
+
+1486592611 source:c:\users\user\desktop\foundation it\decision support system\hungarian-algorithm-cpp-master\testmain.cpp
+	<iostream>
+	"Hungarian.h"
+
+1462546622 c:\users\user\desktop\foundation it\decision support system\hungarian-algorithm-cpp-master\hungarian.cpp
+	<stdlib.h>
+	<cfloat>
+	<cmath>
+	"Hungarian.h"
+
